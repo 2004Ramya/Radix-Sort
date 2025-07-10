@@ -47,3 +47,6 @@ Obtained Values After Round-1:
   - Perform count sort based on current digit
   - (num//exp)%10
   - multiply exp by 10
+
+-->Time Complexity in all cases - O(nk)
+-->Space Complexity in all cases - O(n)
